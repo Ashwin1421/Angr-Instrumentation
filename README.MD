@@ -15,3 +15,7 @@ cle
 3. bindiff - Difference of two target binaries.
 ### Output files are generated in the same directory.
 Look for `.out` files for generated output.
+## Authors
+
+* **Ashwin Joshi** - [Ashwin1421](https://github.com/Ashwin1421)
+
