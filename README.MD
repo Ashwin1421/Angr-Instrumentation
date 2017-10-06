@@ -14,4 +14,4 @@ cle
 2. cfg - Get output for tasks performed on target binary's CFG.
 3. bindiff - Difference of two target binaries.
 ### Output files are generated in the same directory.
-### Look for .out files for generated output.
+Look for `.out` files for generated output.
